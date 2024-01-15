@@ -95,10 +95,13 @@ The 'mechatronic design schematic' of the SpyTank is shown in the above figure.
 
 ### Wiring schematic
 
+<img src="./Photos/wiring_schematic.png" alt="" width="70%" height="auto">
+
+The circuit plan pf the tank is shown above.
 
 ### Programming part
 
-<img src="./Photos/program_flow_schematic.png" alt="" width="60%" height="auto">
+<img src="./Photos/program_flow_schematic.png" alt="" width="70%" height="auto">
 
 The diagram above explains the program logic of the SpyTank. There are 3 classes: `camera`, `motors` (in `stepper.py`) and `controller`. 
 
@@ -126,8 +129,11 @@ above the `exit 0`. Modify the path to match your code location and note the `&`
 
 ## Additional instructions
 
-### Baseplate cutting bending
+### Baseplate cutting and bending
 
+<img src="./Photos/baseplate_dimensions.png" alt="Baseplate dimensions" width="100%" height="auto">
+
+Above is shown the baseplate dimensions. The plate is bent so that the ends are at 45 degree angle with respect to the bottom and the final parts are vertical. The sides are at 90 degree angle w.r.t. the bottom part.
 
 ### 3D printing specs
 
